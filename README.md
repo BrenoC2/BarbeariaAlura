@@ -1,2 +1,3 @@
 # BarbeariaAlura
-Site desenvolvido, no intuito de aprendizagem através do curso de Desenvolvimento Web da Plataforma Alura.
+Projeto desenvolvido durante as aulas de HTML e CSS, no plataforma Alura
+
